@@ -1,0 +1,26 @@
+C:\tp2\ProyectoTipoParcial2-A\ProyectoTipoParcial2-A\bin\Debug\ProyectoTipoParcial2-A.exe.config
+C:\tp2\ProyectoTipoParcial2-A\ProyectoTipoParcial2-A\bin\Debug\ProyectoTipoParcial2-A.exe
+C:\tp2\ProyectoTipoParcial2-A\ProyectoTipoParcial2-A\bin\Debug\ProyectoTipoParcial2-A.pdb
+C:\tp2\ProyectoTipoParcial2-A\ProyectoTipoParcial2-A\obj\Debug\ProyectoTipoParcial2-A.csprojAssemblyReference.cache
+C:\tp2\ProyectoTipoParcial2-A\ProyectoTipoParcial2-A\obj\Debug\ProyectoTipoParcial2_A.Form1.resources
+C:\tp2\ProyectoTipoParcial2-A\ProyectoTipoParcial2-A\obj\Debug\ProyectoTipoParcial2_A.MantenimientoClubes.resources
+C:\tp2\ProyectoTipoParcial2-A\ProyectoTipoParcial2-A\obj\Debug\ProyectoTipoParcial2_A.Properties.Resources.resources
+C:\tp2\ProyectoTipoParcial2-A\ProyectoTipoParcial2-A\obj\Debug\ProyectoTipoParcial2-A.csproj.GenerateResource.cache
+C:\tp2\ProyectoTipoParcial2-A\ProyectoTipoParcial2-A\obj\Debug\ProyectoTipoParcial2-A.csproj.CoreCompileInputs.cache
+C:\tp2\ProyectoTipoParcial2-A\ProyectoTipoParcial2-A\obj\Debug\ProyectoTipoParcial2-A.exe
+C:\tp2\ProyectoTipoParcial2-A\ProyectoTipoParcial2-A\obj\Debug\ProyectoTipoParcial2-A.pdb
+C:\tp2\ProyectoTipoParcial2-A\ProyectoTipoParcial2-A\obj\Debug\ProyectoTipoParcial2_A.PlanificacionPartidos.resources
+C:\tp2\ProyectoTipoParcial2-A\ProyectoTipoParcial2-A\obj\Debug\ProyectoTipoParcial2_A.ConsultaEquipo.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\ProyectoTipoParcial2-A\ProyectoTipoParcial2-A\bin\Debug\ProyectoTipoParcial2-A.exe.config
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\ProyectoTipoParcial2-A\ProyectoTipoParcial2-A\bin\Debug\ProyectoTipoParcial2-A.exe
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\ProyectoTipoParcial2-A\ProyectoTipoParcial2-A\bin\Debug\ProyectoTipoParcial2-A.pdb
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\ProyectoTipoParcial2-A\ProyectoTipoParcial2-A\obj\Debug\ProyectoTipoParcial2-A.csprojAssemblyReference.cache
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\ProyectoTipoParcial2-A\ProyectoTipoParcial2-A\obj\Debug\ProyectoTipoParcial2_A.ConsultaEquipo.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\ProyectoTipoParcial2-A\ProyectoTipoParcial2-A\obj\Debug\ProyectoTipoParcial2_A.Form1.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\ProyectoTipoParcial2-A\ProyectoTipoParcial2-A\obj\Debug\ProyectoTipoParcial2_A.MantenimientoClubes.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\ProyectoTipoParcial2-A\ProyectoTipoParcial2-A\obj\Debug\ProyectoTipoParcial2_A.PlanificacionPartidos.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\ProyectoTipoParcial2-A\ProyectoTipoParcial2-A\obj\Debug\ProyectoTipoParcial2_A.Properties.Resources.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\ProyectoTipoParcial2-A\ProyectoTipoParcial2-A\obj\Debug\ProyectoTipoParcial2-A.csproj.GenerateResource.cache
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\ProyectoTipoParcial2-A\ProyectoTipoParcial2-A\obj\Debug\ProyectoTipoParcial2-A.csproj.CoreCompileInputs.cache
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\ProyectoTipoParcial2-A\ProyectoTipoParcial2-A\obj\Debug\ProyectoTipoParcial2-A.exe
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\ProyectoTipoParcial2-A\ProyectoTipoParcial2-A\obj\Debug\ProyectoTipoParcial2-A.pdb
